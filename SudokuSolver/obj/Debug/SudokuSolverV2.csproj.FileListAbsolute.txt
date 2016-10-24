@@ -1,0 +1,9 @@
+Z:\Newest backup\12th Grade\3. C# Programming and Game Design\SudokuSolverV2\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+Z:\Newest backup\12th Grade\3. C# Programming and Game Design\SudokuSolverV2\SudokuSolver\obj\Debug\SudokuSolver.exe
+Z:\Newest backup\12th Grade\3. C# Programming and Game Design\SudokuSolverV2\SudokuSolver\obj\Debug\SudokuSolver.pdb
+Z:\Newest backup\12th Grade\3. C# Programming and Game Design\SudokuSolverV2\SudokuSolver\bin\Debug\SudokuSolver.exe
+Z:\Newest backup\12th Grade\3. C# Programming and Game Design\SudokuSolverV2\SudokuSolver\bin\Debug\SudokuSolver.pdb
+Z:\Newest backup\12th Grade\3. C# Programming and Game Design\SudokuSolverV2\SudokuSolver\obj\Debug\SudokuSolverV2.csprojResolveAssemblyReference.cache
+Z:\Newest backup\12th Grade\3. C# Programming and Game Design\SudokuSolverV2\SudokuSolver\obj\Debug\SudokuSolver.Form1.resources
+Z:\Newest backup\12th Grade\3. C# Programming and Game Design\SudokuSolverV2\SudokuSolver\obj\Debug\SudokuSolver.Properties.Resources.resources
+Z:\Newest backup\12th Grade\3. C# Programming and Game Design\SudokuSolverV2\SudokuSolver\obj\Debug\SudokuSolverV2.csproj.GenerateResource.Cache

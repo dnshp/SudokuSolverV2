@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="SudokuSolver/SudokuSolverV2.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SudokuSolver/Form1.cs">
+    <Files>
+      <File FileName="SudokuSolver/Form1.cs" Line="409" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SudokuSolverV2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

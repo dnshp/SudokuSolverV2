@@ -1,0 +1,10 @@
+/Users/dineshparimi/Documents/Programming/SudokuSolverV2/SudokuSolver/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/dineshparimi/Documents/Programming/SudokuSolverV2/SudokuSolver/obj/Debug/SudokuSolver.Form1.resources
+/Users/dineshparimi/Documents/Programming/SudokuSolverV2/SudokuSolver/obj/Debug/SudokuSolver.Properties.Resources.resources
+/Users/dineshparimi/Documents/Programming/SudokuSolverV2/SudokuSolver/bin/Debug/SudokuSolver.exe.config
+/Users/dineshparimi/Documents/Programming/SudokuSolverV2/SudokuSolver/bin/Debug/SudokuSolver.exe.mdb
+/Users/dineshparimi/Documents/Programming/SudokuSolverV2/SudokuSolver/bin/Debug/SudokuSolver.pdb
+/Users/dineshparimi/Documents/Programming/SudokuSolverV2/SudokuSolver/bin/Debug/SudokuSolver.exe
+/Users/dineshparimi/Documents/Programming/SudokuSolverV2/SudokuSolver/obj/Debug/SudokuSolver.exe
+/Users/dineshparimi/Documents/Programming/SudokuSolverV2/SudokuSolver/obj/Debug/SudokuSolver.exe.mdb
+/Users/dineshparimi/Documents/Programming/SudokuSolverV2/SudokuSolver/obj/Debug/SudokuSolver.pdb
